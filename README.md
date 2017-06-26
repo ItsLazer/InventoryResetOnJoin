@@ -1,1 +1,1 @@
-# InventoryResetOnJoin
+# InventoryResetOnJoin (IRON)
